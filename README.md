@@ -17,5 +17,5 @@
 
 ### 1. Клонировать репозиторий
 ```bash
-git clone https://github.com/ВАШ_АККАУНТ/BlackjackGame.git
+git clone https://github.com/Xenditec/BlackjackGame.git
 cd BlackjackGame
